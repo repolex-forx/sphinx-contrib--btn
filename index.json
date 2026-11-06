@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "btn",
+  "versions": [
+    {
+      "commit": "9efc1948410e84a5ae32becfe0185a6f7b9245d5",
+      "tag": "v0.1.2",
+      "parsed_at": "2026-11-06T18:26:56.345574+00:00"
+    }
+  ]
+}
